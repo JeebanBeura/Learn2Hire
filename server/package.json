@@ -16,7 +16,7 @@
     "mongodb",
     "mongoose"
   ],
-  "author": "",
+  "author": "Jeeban Beura",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
